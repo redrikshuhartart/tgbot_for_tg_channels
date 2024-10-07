@@ -1,0 +1,1 @@
+from .notify import on_startup_notify
